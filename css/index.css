@@ -1,8 +1,12 @@
-/* .information {} */
-
 .information .line {
     border-bottom: 1px solid gray !important;
 }
-/* dd{
-    padding-left: 10px;
-} */
+
+.information a {
+    color: unset;
+}
+
+.information h5 a, .information h5 a:hover {
+    color: unset;
+    text-decoration: unset;
+}
