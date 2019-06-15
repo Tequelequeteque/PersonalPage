@@ -1,0 +1,12 @@
+.information .line {
+    border-bottom: 1px solid gray !important;
+}
+
+.information a {
+    color: unset;
+}
+
+.information h4 a, .information h4 a:hover {
+    color: unset;
+    text-decoration: unset;
+}
